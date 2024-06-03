@@ -1,0 +1,3 @@
+0 Early_Blight
+1 Healthy_Leaf
+2 Late_Blight
